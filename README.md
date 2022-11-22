@@ -1,4 +1,4 @@
-# Capstone Project 1 - Purwadhika Digital Technology School
+# Capstone Project 1
 ## Inventory Management & Sales Program
 
 ### About project
