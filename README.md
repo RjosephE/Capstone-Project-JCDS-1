@@ -1,1 +1,2 @@
-# Capstone-Project-JCDS-1
+# Capstone Project 1 - Purwadhika Digital Technology School
+## Sfi
