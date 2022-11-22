@@ -1,4 +1,4 @@
-# Capstone Project 1
+# Capstone Project Module 1 - Fundamental Python Programming
 ## Inventory Management & Sales Program
 
 ### About project
